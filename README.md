@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Ritiksharma1103
 - 👀 I’m interested in software developer
-- 🌱 I’m currently learning full stak program
+- 🌱 I have 2 years experience in full stack development
 - 📫 How to reach me ...ritiksharma.Mar11@gmail.com
 
 <!---
